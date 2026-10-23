@@ -1,0 +1,19 @@
+{
+  "n_vms": 10000,
+  "n_total_timestamps": 134,
+  "cadence_seconds": 300,
+  "active_vm_count_train": 10000,
+  "active_vm_count_holdout": 10000,
+  "train_mean_cpu": 9.414089019539007,
+  "train_std_cpu": 0.19356833547362817,
+  "train_min_cpu": 9.111633601754887,
+  "train_max_cpu": 9.912175173984913,
+  "holdout_mean_cpu": 9.268987733051413,
+  "holdout_std_cpu": 0.1557244734456778,
+  "holdout_min_cpu": 8.983613452960672,
+  "holdout_max_cpu": 9.63599020869164,
+  "acf_lag1": 0.6672358236125618,
+  "acf_lag3": 0.6810152095902999,
+  "acf_lag12": 0.3666123245758548,
+  "acf_lag24": -0.02638127598969213
+}
